@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gron-mdt", "gron-mdt\gron-mdt.csproj", "{1BE9CF8B-B8D7-427C-8CDD-5BCF4AE0EDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE9CF8B-B8D7-427C-8CDD-5BCF4AE0EDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE9CF8B-B8D7-427C-8CDD-5BCF4AE0EDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE9CF8B-B8D7-427C-8CDD-5BCF4AE0EDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE9CF8B-B8D7-427C-8CDD-5BCF4AE0EDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7741EF53-67F2-4809-A9BB-5C7D413F2A49}
+	EndGlobalSection
+EndGlobal
