@@ -2,9 +2,10 @@
 gron-mdt; make markdown-table greppable.
 inspired by https://github.com/tomnomnom/gron
  
-## install
+## setup
 
-TODO
+please download build file from release page.
+https://github.com/mitakeck/gron-mdt/releases/latest
 
 ## usage
 
